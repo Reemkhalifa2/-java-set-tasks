@@ -1,4 +1,4 @@
-import java.util.*;        // Step 2: Import Set interface
+import java.util.*;
 public class CourseSetDemo {
     public static void main(String[] args) {
         Set<String> courses = new HashSet<>();
