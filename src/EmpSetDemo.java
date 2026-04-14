@@ -1,4 +1,4 @@
-import java.util.*; // Import Set and HashSet
+import java.util.*;
 
 public class EmpSetDemo {
     public static void main(String[] args) {
@@ -46,6 +46,5 @@ public class EmpSetDemo {
 
         System.out.println(employees.size());
 
-        System.out.println("The set now contains zero elements.");
     }
 }
