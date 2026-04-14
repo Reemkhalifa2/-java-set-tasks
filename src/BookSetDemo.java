@@ -1,4 +1,4 @@
-import java.util.*;        // Step 2: Import Set interface
+import java.util.*;
 public class BookSetDemo {
     public static void main(String[] args) {
         Set<String> bookTitles = new HashSet<>();
