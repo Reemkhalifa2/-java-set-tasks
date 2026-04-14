@@ -5,7 +5,7 @@ public class SubjectSetDemo {
         // Declare a Set
         Set<String> subjects = new HashSet<>();
 
-        // Add 5 car names
+        // Add 5 subject names
         subjects.add("Math");
         subjects.add("Science");
         subjects.add("English");
