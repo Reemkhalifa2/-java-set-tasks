@@ -13,7 +13,6 @@ public class CarSetDemo {
         Cars.add("Nissan");
         Cars.add("Honda");
 
-        // Display initial employees
         for(String car : Cars) {System.out.println(car);}
 
         Cars.add("Kia");
@@ -40,7 +39,7 @@ public class CarSetDemo {
         System.out.println(Cars);
         System.out.println(Cars.size());
 
-        // Clear all employees
+        // Clear The set
         Cars.clear();
         System.out.println(Cars);
 
